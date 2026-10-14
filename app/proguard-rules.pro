@@ -1,0 +1,4 @@
+-keep class org.vosk.** { *; }
+-keep class com.sun.jna.** { *; }
+-keep class com.arthenica.ffmpegkit.** { *; }
+-dontwarn java.awt.**

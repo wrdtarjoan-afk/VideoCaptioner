@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray_text
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id btnPickVideo
+id btnPlayResult
+id btnStart
+id progressBar
+id tvStatus
+id tvVideoInfo
+layout activity_main
+string app_name
+style Theme.VideoCaptioner
